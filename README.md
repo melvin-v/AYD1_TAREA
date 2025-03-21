@@ -1,4 +1,4 @@
-# React Hola Mundo con Docker
+# React Hola Mundo con Docker - 202111556 - Melvin Valencia
 
 Una aplicación simple en React que muestra un botón que al presionarlo dice "¡Hola Mundo!". La aplicación está containerizada con Docker para facilitar su despliegue y ejecución.
 
@@ -26,8 +26,10 @@ Para ejecutar esta aplicación necesitarás:
 
 1. Clona este repositorio:
    ```bash
-   git clone <url-del-repositorio>
-   cd react-hola-mundo
+   git clone https://github.com/melvin-v/AYD1_TAREA
+   cd app
+   npm install
+   npm run dev
    ```
 
 2. Construye y ejecuta el contenedor:
